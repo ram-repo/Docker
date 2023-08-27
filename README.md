@@ -1,71 +1,71 @@
-# Docker:
+# Docker Basics:
 
-What is Docker, and how does it differ from traditional virtualization?
+1. What is Docker, and how does it differ from traditional virtualization?
 
-Explain the key components of Docker: images, containers, and Docker Engine.
+2. Explain the key components of Docker: images, containers, and Docker Engine.
 
-How do you run a Docker container based on an image?
+3. How do you run a Docker container based on an image?
 
-What are the benefits of using Docker containers in terms of environment consistency?
+4. What are the benefits of using Docker containers in terms of environment consistency?
 
-What is a Dockerfile, and how is it used in the containerization process?
+5. What is a Dockerfile, and how is it used in the containerization process?
 
-How would you define and use Docker volumes for persistent data storage?
+6. How would you define and use Docker volumes for persistent data storage?
 
-What is Docker Compose, and how does it help in managing multi-container applications?
+7. What is Docker Compose, and how does it help in managing multi-container applications?
 
-Differentiate between Docker images and containers.
+8. Differentiate between Docker images and containers.
 
 # Networking and Security:
 
-Describe the different types of Docker networking modes and when you would use each.
+9.  Describe the different types of Docker networking modes and when you would use each.
 
-How do you expose ports from a Docker container to the host machine?
+10. How do you expose ports from a Docker container to the host machine?
 
-Explain how Docker handles container isolation and security.
+11. Explain how Docker handles container isolation and security.
 
-What is Docker's role in ensuring the security of the host system and other containers?
+12. What is Docker's role in ensuring the security of the host system and other containers?
 
-How can you restrict the resources (CPU, memory) a container can consume?
+13. How can you restrict the resources (CPU, memory) a container can consume?
 
 # Orchestration and Scaling:
 
-Compare Docker Swarm and Kubernetes as container orchestration platforms.
+14. Compare Docker Swarm and Kubernetes as container orchestration platforms.
 
-What is the purpose of a Docker registry? How would you set up a private Docker registry?
+15. What is the purpose of a Docker registry? How would you set up a private Docker registry?
 
-Describe the concept of load balancing and scaling with Docker containers.
+16. Describe the concept of load balancing and scaling with Docker containers.
 
-How do you perform rolling updates in a Docker swarm?
+17. How do you perform rolling updates in a Docker swarm?
 
 # Advanced Topics:
 
-Explain the concept of a multi-stage Docker build and its benefits.
+18. Explain the concept of a multi-stage Docker build and its benefits.
 
-How would you set environment variables within a Docker container?
+19. How would you set environment variables within a Docker container?
 
-Describe the use of health checks in Docker containers and their significance.
+20. Describe the use of health checks in Docker containers and their significance.
 
-What are Docker plugins, and how can they extend Docker's capabilities?
+21. What are Docker plugins, and how can they extend Docker's capabilities?
 
-How does Docker facilitate microservices architecture and containerized applications?
+22. How does Docker facilitate microservices architecture and containerized applications?
 
 # Integration and DevOps:
 
-How can Docker be integrated into a CI/CD pipeline?
+23. How can Docker be integrated into a CI/CD pipeline?
 
-Discuss the benefits of using Docker for local development environments.
+24. Discuss the benefits of using Docker for local development environments.
 
-Describe how Docker helps in achieving consistency between development, testing, and production environments.
+25. Describe how Docker helps in achieving consistency between development, testing, and production environments.
 
-Troubleshooting and Optimization:
+26. Troubleshooting and Optimization:
 
-Your containerized application is crashing upon startup. What steps would you take to diagnose and fix the issue?
+27. Your containerized application is crashing upon startup. What steps would you take to diagnose and fix the issue?
 
-What is Docker's layer caching, and how can it impact image build times?
+28. What is Docker's layer caching, and how can it impact image build times?
 
-Explain methods to optimize Docker images for reduced size and enhanced performance.
+29. Explain methods to optimize Docker images for reduced size and enhanced performance.
 
-Discuss the importance of monitoring Docker containers and suggest tools for monitoring.
+30. Discuss the importance of monitoring Docker containers and suggest tools for monitoring.
 
-How can you clean up unused images, containers, and resources to optimize disk space?
+31. How can you clean up unused images, containers, and resources to optimize disk space?
